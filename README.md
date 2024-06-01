@@ -27,6 +27,6 @@ Service layer
 Database layer.
 
 Entity Framework core is used and Db first approach is used to create database schema.
-Minimal API features are utilised with swashbuckle API documentation.
+Minimal API features are utilised with swagger API documentation.
 
     
